@@ -1,3 +1,9 @@
+# Student's Notes to TAs
+
+In order for the link to work you have to use:
+https://chrng404.github.io/Homework11/index.html
+
+
 # Unit 12 | Assignment - Web Visualization Dashboard (Latitude)
 
 ## Background
